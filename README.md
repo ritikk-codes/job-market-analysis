@@ -44,4 +44,7 @@ This chart shows commonly required skill combinations in job postings.
 - job_market_intelligence_analysis.ipynb → Main analysis notebook  
 - Skills.png → Skill demand visualization  
 - Location.png → Job location analysis  
-- Combinations.png → Skill combination analysis  
+- Combinations.png → Skill combination analysis
+
+- ## Author
+Ritik Shende
