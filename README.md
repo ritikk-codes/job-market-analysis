@@ -28,10 +28,10 @@ This project helps job seekers understand which skills to focus on and provides 
 ## Visualizations
 
 ### Skill Demand
-![Skills](skills.png)
+![Skills](Skills.png)
 
-### Experience Level Distribution
+### Job Locations
 ![Location](Location.png)
 
 ### Skill Combinations
-![Combinations](combinations.png)
+![Combinations](Combinations.png)
