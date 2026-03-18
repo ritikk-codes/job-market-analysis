@@ -28,10 +28,20 @@ This project helps job seekers understand which skills to focus on and provides 
 ## Visualizations
 
 ### Skill Demand
+This chart shows the most in-demand skills for data analyst roles.
 ![Skills](Skills.png)
 
 ### Job Locations
+This chart highlights where most job opportunities are concentrated.
 ![Location](Location.png)
 
 ### Skill Combinations
+This chart shows commonly required skill combinations in job postings.
 ![Combinations](Combinations.png)
+
+## Project Structure
+
+- job_market_intelligence_analysis.ipynb → Main analysis notebook  
+- Skills.png → Skill demand visualization  
+- Location.png → Job location analysis  
+- Combinations.png → Skill combination analysis  
