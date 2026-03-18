@@ -1,7 +1,7 @@
 # Job Market Intelligence Analysis
 
 ## Overview
-This project analyzes job market data to understand in-demand skills, hiring trends, and skill gaps for Data Analyst roles.
+This project analyzes real-world job market data to identify in-demand skills, hiring trends, and skill gaps for aspiring Data Analysts.
 
 ## Key Features
 - Analyzed top in-demand skills like SQL, Python, and Excel
@@ -23,7 +23,7 @@ This project analyzes job market data to understand in-demand skills, hiring tre
 - Companies prefer candidates with multiple skill combinations
 
 ## Conclusion
-This project helps job seekers understand which skills to focus on and provides insights into current hiring trends in the data analytics field.
+This project helps job seekers understand which skills to focus on and provides insights into current hiring trends in the data analytics field. It also highlights the importance of building a combination of technical and analytical skills to stay competitive in the job market.
 
 ## Visualizations
 
