@@ -24,3 +24,14 @@ This project analyzes job market data to understand in-demand skills, hiring tre
 
 ## Conclusion
 This project helps job seekers understand which skills to focus on and provides insights into current hiring trends in the data analytics field.
+
+## Visualizations
+
+### Skill Demand
+![Skills](skills.png)
+
+### Experience Level Distribution
+![Location](Location.png)
+
+### Skill Combinations
+![Combinations](combinations.png)
